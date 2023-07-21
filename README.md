@@ -12,7 +12,7 @@ No [vídeo anterior](https://www.youtube.com/watch?v=DqTITcMq68k) eu expliquei o
 
 ## Criar um projeto novo
 
-* Criar uma nova pasta no PC pra isso chamada `Git Tutorial`
+* Criar uma nova pasta no PC pra isso chamada `Git Tutorial` .>
 
 * Abrir o VSCode nessa pasta
 
